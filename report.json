@@ -1,0 +1,23 @@
+{
+  "totalStudents": 10,
+  "overallAverageGrade": 88.76,
+  "topPerformingStudent": {
+    "id": 6,
+    "name": "Sofia Ramos",
+    "averageGrade": 94
+  },
+  "breakdownByCourse": [
+    {
+      "course": "BSCS",
+      "averageGrade": 90.06666666666666
+    },
+    {
+      "course": "BSBA",
+      "averageGrade": 88.93333333333334
+    },
+    {
+      "course": "BSIT",
+      "averageGrade": 87.26666666666667
+    }
+  ]
+}
